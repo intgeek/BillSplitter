@@ -1,5 +1,6 @@
 # BillSplitter
 A C++ program to perform following tasks:
+
 1. Create Group.
 2. Add people to group.
 3. Add expense to group.
